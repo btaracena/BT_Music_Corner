@@ -1,0 +1,76 @@
+body {
+    margin: auto auto;
+    padding: auto;
+    background:#FFFF64;
+}
+
+#Main_Logo {
+    background:#FFFF64 ;
+    color: #484848;
+    margin: 0 auto;
+}
+
+
+.Title {
+    color: #484848;
+    Margin: 0px auto;
+    font-size: 50px;
+    width: 400px;
+    text-align: center;
+    letter-spacing: 30px;
+    font-family: 'Bebas Neue', cursive, "New Times Roman";
+}
+
+
+.Title:hover {
+    color: red;
+}
+
+
+.title_sub {
+    color: #484848;
+    Margin: 60px auto;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 30px;
+    font-family: 'Bebas Neue', cursive, "New Times Roman";
+}
+
+.title_sub:hover {
+    color: aqua;
+
+}
+
+nav {
+    align: right;
+    margin: auto;
+}
+
+nav ul{
+    list-style: none;
+    text-align: right;
+    padding: 10px 10px 0px 10px ;
+    line-height: 40px;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive, "New Times Roman";
+}
+
+nav ul li a {
+    text-align: left;
+    text-decoration: none;
+    color: #484848;
+    line-height: 40px;
+}
+
+a:hover {
+    color: red;
+    align-self: center;
+}
+
+figure #headphones{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
